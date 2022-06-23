@@ -1,2 +1,2 @@
-# todolist
-A simple to do list using react
+# To-Do List
+# A simple to do list styled using react.
